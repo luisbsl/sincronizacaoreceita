@@ -10,3 +10,6 @@
 ```./mvnw clean install```
 
 ```java -jar target/sincronizacaoreceita-0.0.1-SNAPSHOT.jar entrada.csv```
+
+### Resultado
+**saida.csv**
